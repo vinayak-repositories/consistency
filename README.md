@@ -35,3 +35,8 @@ this repo includes all the things i did to be productive as an individual and an
 ** didn't sent email's **
 ** will try making again from scratch **
 
+#Day6
+
+** linkedin post created **
+** didn't sent email's **
+
