@@ -40,3 +40,8 @@ this repo includes all the things i did to be productive as an individual and an
 ** linkedin post created **
 ** didn't sent email's **
 
+Day7
+
+** linkedin post not created **
+** didn't sent email's **
+
