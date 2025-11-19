@@ -45,3 +45,9 @@ Day7
 ** linkedin post not created **
 ** didn't sent email's **
 
+
+Day8
+
+** linkedin post not created **
+** didn't sent email's **
+
